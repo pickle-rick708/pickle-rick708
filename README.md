@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pickle-rick708
+- 👋 Hi, I’m @bloo1618
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning computer networking
 - 💞️ I’m looking to collaborate on deep learning projects
